@@ -13,7 +13,7 @@ série em geral.
 
 Nosso site foi desenvolvido para facilitar o acesso dos fãs á informações sobre a série e 
 seus personagens, assim como, permitir que aqueles que não a conhecem possam conhecer melhor
-os personagens de uma forma simples e divertida.
+os personagens, a série, suas temporadas e capíyulos de uma forma simples e divertida.
 
 # Link de acesso ao projeto finalizado
 https://anilorac93.github.io/SAP009-data-lovers/
@@ -29,10 +29,10 @@ dados mais interessantes para eles são visualizar informações relevantes sobr
 - imagem;
 - episódios em que aparecem.
 
-Além dessas informações, para nossos usuários, é importante para obter mais informações sobre a série poder ver:
+Além dessas informações, para nossos usuários, é importante para obter mais informações sobre a série:
 - a lista de personagens que aparecem na série;
-- número de episódios;
-- os diferentes locais de origem;
+- percentual de aparição dos personagens ao longo da série;
+- os diferentes locais de origem e localizaçõ dos mesmos.
  
 # Histórias de usuário:
 
