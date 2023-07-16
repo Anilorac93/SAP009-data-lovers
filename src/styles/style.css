@@ -3,7 +3,7 @@ img{
 }
 
 body{
-    background-image: url(img/rickandmorty1.png);
+    background-image: url(../assets/img-fundo-tela.png);
     background-color: #1e2b1f;
     background-size: cover;
     background-position: 0%;
